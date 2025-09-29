@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     subgraph "1. Código y Colaboración (GitHub)"
         A[Desarrollador escribe código<br>en rama 'feature'] -- "1. Pull Request" --> B(Rama 'develop');
@@ -42,4 +41,3 @@ graph TD
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#ccf,stroke:#333,stroke-width:2px
     style C fill:#cfc,stroke:#333,stroke-width:2px
-```
